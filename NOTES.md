@@ -1,1 +1,1 @@
-Next: pre-commit setup
+Next: pre-commit setup (ruff, mypy, terraform fmt, tflint)
